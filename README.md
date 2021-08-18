@@ -1,7 +1,7 @@
-Hi, I'm Humza Sajid! 👋
-🔥 21 Year's Old Software Developer trying to create beautifull JS applications.
-✨ Favorite Tech: JavaScript, React
-📓 I’m currently learning Advance React
-📧 Humzasajidcs@gmail.com
-💼 LinkedIn: https://linkedin.com/in/humza-sajid
+Hi, I'm Humza Sajid! 👋 <br/>
+🔥 21 Year's Old Software Developer trying to create beautifull JS applications.<br/>
+✨ Favorite Tech: JavaScript, React<br/>
+📓 I’m currently learning Advance React<br/>
+📧 Humzasajidcs@gmail.com<br/>
+💼 LinkedIn: https://linkedin.com/in/humza-sajid<br/>
              

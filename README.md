@@ -1,5 +1,5 @@
 <center>
-  ![image](https://user-images.githubusercontent.com/20709155/129867651-a649b85c-6030-45aa-8a94-cc2302543fe2.png)
+  ![image](https://user-images.githubusercontent.com/20709155/129867728-f7ec3aa2-7a08-43f4-97e4-6ef2e3d07736.png)
 
   Hi, I'm Humza Sajid! 👋 <br/><br/>
 🔥 21 Year's Old Software Developer trying to create beautifull JS applications.<br/><br/>

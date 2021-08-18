@@ -1,6 +1,6 @@
-<center>
-  ![image](https://user-images.githubusercontent.com/20709155/129867728-f7ec3aa2-7a08-43f4-97e4-6ef2e3d07736.png)
 
+  ![image](https://user-images.githubusercontent.com/20709155/129867967-91787061-196b-475d-9dd3-8112449f7e70.png)
+<center>
   Hi, I'm Humza Sajid! 👋 <br/><br/>
 🔥 21 Year's Old Software Developer trying to create beautifull JS applications.<br/><br/>
 ✨ Favorite Tech: JavaScript, React<br/><br/>

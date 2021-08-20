@@ -1,6 +1,6 @@
-
+<div align="center">
   ![image](https://user-images.githubusercontent.com/20709155/129868332-a54d08f3-c1cf-4622-bf4b-4e9e2cc947ad.png)
-
+</div>
   <div align="center">
 <center>
   Hi, I'm Humza Sajid! 👋 <br/><br/>

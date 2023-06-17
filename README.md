@@ -4,7 +4,7 @@
   <div align="center">
 <center>
   Hi, I'm Humza Sajid! 👋 <br/><br/>
-🔥 An aspiriing Software Engineer trying to build impactfull product<br/><br/>
+🔥 An aspiring Software Engineer trying to build impactfull product<br/><br/>
 ✨ Favorite Tech: JavaScript, React , Node<br/><br/>
 📓 I’m currently learning: AWS <br/><br/>
 📧 Humzasajidcs@gmail.com<br/><br/>
